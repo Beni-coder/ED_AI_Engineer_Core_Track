@@ -50,4 +50,7 @@ dependencies = [
     "langchain-experimental>=0.0.42",
     "groq>=0.33.0",
     "xgboost>=3.1.1",
+    "onnxruntime==1.23.1",
+    "pillow==11.3.0",
+    "grpcio==1.76.0",
 ]
